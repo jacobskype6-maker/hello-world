@@ -1,2 +1,2 @@
 # hello-world
-This repository is for practicing the GitHub Flow
+am jacob odomoch,am 20years old,i was born in lira,uganda.and am doing information technology as a profession.
